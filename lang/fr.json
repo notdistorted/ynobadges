@@ -1398,8 +1398,8 @@
       "condition": "Obtenir un score de 8000 ou plus sur le Level 7 de Zapnef"
     },
     "hollow_head": {
-      "name": "Hollow Head",
-      "description": "\"tu dois aller au sospital et obtenir l'effef raura pour que tu soignes gawie dans ta soushee\" - Jojogape",
+      "name": "Tête creuse",
+      "description": "\"tu dois aller au sospital et obtenir l'effef raura pour que tu soignes ce twou dans ta caboshee\" - Jojogape",
       "condition": "Atteindre la Void depuis le Subway."
     }
   },
@@ -1570,7 +1570,7 @@
     },
     "pouleine_ride": {
       "name": "Eggcellent Eggsercice",
-      "description": "Take a ride on the chicken to the beach!",
+      "description": "Faire une balade sur le poulet vers la plage!",
       "condition": "Activer l'événement du Voyage de Pouleine"
     },
     "midnight_mall_haircut": {
