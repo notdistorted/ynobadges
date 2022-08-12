@@ -1362,7 +1362,7 @@
     "apparition_creature": {
       "name": "Pastel Phantom",
       "description": "A past of pastel",
-      "condition": "Enter the room containing the Apparition effect using the Pastel alter"
+      "condition": "Enter the room containing the Apparition alter using the Pastel alter"
     },
     "pink_bathing_creature": {
       "name": "Bath House Bubbles",
@@ -1576,7 +1576,7 @@
     "midnight_mall_haircut": {
       "name": "Stylin'!",
       "description": "Follow the latest trends!",
-      "condition": "Get a haircut at the Midnight Mall Hairdresser (with Cougar effect)"
+      "condition": "Get a haircut at the Midnight Mall Hairdresser (with Cougar key)"
     }
   }
 }
