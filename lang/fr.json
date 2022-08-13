@@ -684,7 +684,7 @@
       "condition": "Visiter le lointain paysage dans le Foliage Estate"
     },
     "sunken_city": {
-      "name": "Bâtiment inondée",
+      "name": "Bâtiment inondé",
       "condition": "Atteindre la Sunken City"
     },
     "crocodile_dog": {
@@ -1127,7 +1127,7 @@
     },
     "green_tea_cake": {
       "name": "Gâteau au thé vert",
-      "condition": "Acheter un gâteau au thé vert le la pâtisserie dans les Shop Ruins"
+      "condition": "Acheter un gâteau au thé vert de la pâtisserie dans les Shop Ruins"
     },
     "principal": {
       "name": "Pas de moto dans les couloirs!",
@@ -1164,6 +1164,21 @@
     "crown_of_sorrow": {
       "name": "Couronne de la tristesse",
       "condition": "Entrer dans la salle à la fin de la route du Spirit Capital en {TIME} ou moins en course contre-la-montre"
+    },
+    "the_liar": {
+      "name": "Menteur, menteur",
+      "description": "Je sais ce que tu es.",
+      "condition": "Éteindre la lumière dans la Liar's bedroom."
+    },
+    "the_assistant": {
+      "name": "L'assistant",
+      "description": "Ne touche pas ça!",
+      "condition": "Rendre visible la coque extérieure du sous-marin."
+    },
+    "garden_of_dreams": {
+      "name": "Jardin des rêves",
+      "description": "Dans ce vaste monde des rêves, comme un jardin qui grandit, grandit, et grandit",
+      "condition": " Interagir avec (ou entrer dans la salle contenant) les arbres des Mountaintop Ruins, de la Blood Cell Sea (incluant son état qliphothique), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, et Evergreen Woods"
     }
   },
   "flow": {
@@ -1228,6 +1243,20 @@
       "name": "Meilleurs amis pour la vie",
       "description": "Peut-être y a-t-il quelque chose de bon dans ce monde",
       "condition": "Débloquer le thème de menu Orange. Si vous l'avez déjà débloqué, retournez là où vous l'avez trouvé."
+    },
+    "moonlight_flower": {
+      "name": "Fleur au côté lunaire",
+      "description": "Fête de la fleur arc-en-ciel!",
+      "condition": "Interagir avec la fleur dans la Psychedelic Town et voir l'événement de la Fleur Arc-en-ciel."
+    },
+    "oreko": {
+      "name": "Oreko",
+      "condition": "Obtenir l'effet Casque de plongée"
+    },
+    "onigo_childbirth": {
+      "name": "Accouchement d'Onigo",
+      "description": "Voir l'événement d'accouchement",
+      "condition": "Déclencher l'événement d'accouchement dans le Visceral World"
     }
   },
   "prayers": {
@@ -1275,6 +1304,21 @@
     "food_room": {
       "name": "Bon Appétit",
       "condition": "Entrer dans la salle contenant la prière Nourriture"
+    },
+    "submarine_cat_eyes": {
+      "name": "Thalassophobie",
+      "description": "Quand tu observes dans un abysse pour un long moment, l'abysse te regarde en retour.",
+      "condition": "Voir l'événement de l'Underwater Ship Cat Eyes dans le Sunken Submarine"
+    },
+    "lookout_point": {
+      "name": "Point d'observation",
+      "description": "Pas une gameboy en vue, juste des âmes profitant du moment.",
+      "condition": "Visiter la seconde île du Silhouette World par le Symbol Maze."
+    },
+    "phantom_symbols": {
+      "name": "Symboles fantomatiques",
+      "description": "Portes ressemblance à ton propre fantôme.",
+      "condition": "Interagir avec la Fluorette Fantomatique dans le Symbols Maze."
     }
   },
   "deepdreams": {
@@ -1289,7 +1333,7 @@
     },
     "planetarium": {
       "name": "Au-delà des étoiles",
-      "condition": "Entrer dans la salle dans le Planetarium contenant l'alter Céleste"
+      "condition": "Entrer dans la salle du Planetarium contenant l'alter Céleste"
     },
     "hospital_event": {
       "name": "Patient 001",
@@ -1309,6 +1353,26 @@
     "flo": {
       "name": "Au Flo de chacune",
       "condition": "Acheter le maillot de bain dans les bains publics"
+    },
+    "warm_embrace": {
+      "name": "Une chaleureuse étreinte",
+      "description": "Partager un câlin avec Tetsuko.",
+      "condition": "Voir l'événement de Tetsuko dans sa chambre dans le Subnexus."
+    },
+    "apparition_creature": {
+      "name": "Fantôme pastel",
+      "description": "Un passé de pastel",
+      "condition": "Entrer dans la salle contenant l'alter Apparition en utilisant l'alter Pastel"
+    },
+    "pink_bathing_creature": {
+      "name": "Bulles des bains publics",
+      "description": "Profites d'une apaisante companie~",
+      "condition": "Trouver la créature rose qui se baigne dans la Bath House"
+    },
+    "spa_day": {
+      "name": "Jour du spa",
+      "description": "C'est l'heure de prendre une pause!",
+      "condition": "Se relaxer dans le jacuzzi dans la Bath House"
     }
   },
   "someday": {
@@ -1327,6 +1391,16 @@
     "fox": {
       "name": "Adorateur des animaux",
       "condition": "Caresser le renard dans la bonne fin"
+    },
+    "over_8k": {
+      "name": "zaP-Rank",
+      "description": "It's over 8000!",
+      "condition": "Obtenir un score de 8000 ou plus sur le Level 7 de Zapnef"
+    },
+    "hollow_head": {
+      "name": "Tête creuse",
+      "description": "\"tu dois aller au sospital et obtenir l'effef raura pour que tu soignes ce twou dans ta caboshee\" - Jojogape",
+      "condition": "Atteindre la Void depuis le Subway."
     }
   },
   "unevendream": {
@@ -1357,7 +1431,7 @@
     "blockgirl": {
       "name": "Blockgirl",
       "description": "Vivre sa meilleure vie",
-      "condition": "Interagir avec Blockgirl avec l'effet Music Box"
+      "condition": "Interagir avec Blockgirl avec l'effet Boîte à Musique"
     },
     "deer": {
       "name": "Biche confinée",
@@ -1405,7 +1479,7 @@
     },
     "eye_flower": {
       "name": "Fleur à l'œil",
-      "condition": "Utiliser l'effet Seer proche d'une certaine fleur dans l'Alien Plants World pour la faire bourgeonner"
+      "condition": "Utiliser l'effet Voyant proche d'une certaine fleur dans l'Alien Plants World pour la faire bourgeonner"
     },
     "arcade": {
       "name": "Brillante arcade",
@@ -1420,13 +1494,22 @@
       "condition": "Voir l'événement du Rêve Corrodé"
     },
     "pinball_machine": {
-      "name": "En bas du tablier",
+      "name": "En bas de l'avant-scène",
       "description": "Allons faire quelque parties de pinball!",
       "condition": "Visiter la Pinball Machine"
     },
     "hermit_crab": {
       "name": "Bernard-l'ermite",
       "condition": "Obtenir un bernard-l'ermite dans un distributeur automatique"
+    },
+    "mimic": {
+      "name": "Ingénieur imitateur",
+      "description": "La voie de l'imitateur onirique",
+      "condition": "Entrer dans la salle de l'événement Tête en Bas"
+    },
+    "cube_racing": {
+      "name": "Cube Racing",
+      "condition": "Déclencher l'événement du 78 Skidoo dans la Cube Road."
     }
   },
   "braingirl": {
@@ -1474,6 +1557,26 @@
     "rainbow_screw": {
       "name": "L'une de nous! L'une de nous!",
       "condition": "Utiliser la clé Vis pour s'enterrer dans le sol dans le Rainbow Screw Floor"
+    },
+    "sequoia_wheel_loss": {
+      "name": "La maison gagne toujours",
+      "description": "Affronte les conséquences de tes pertes",
+      "condition": "Lancer le pire résultat sur l'une des roues de la Sequoia Lucky Forest et se faire attaper par l'un des chasseurs"
+    },
+    "residential_corridor_balcony": {
+      "name": "La Société industrielle et son avenir",
+      "description": "Quelle vue polluée...",
+      "condition": "Admirer la vue depuis le balcon du Residential Corridor World."
+    },
+    "pouleine_ride": {
+      "name": "Eggcellent Eggsercice",
+      "description": "Faire une balade sur le poulet vers la plage!",
+      "condition": "Activer l'événement du Voyage de Pouleine"
+    },
+    "midnight_mall_haircut": {
+      "name": "Stylé'!",
+      "description": "Suivre les dernières tendances!",
+      "condition": "Obtenir une coiffute au Coiffeur du Midnight Mall (avec la clé Cougar)"
     }
   }
 }
