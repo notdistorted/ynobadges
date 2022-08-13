@@ -1561,7 +1561,7 @@
     "sequoia_wheel_loss": {
       "name": "La maison gagne toujours",
       "description": "Affronte les conséquences de tes pertes",
-      "condition": "Lancer le pire résultat sur l'une des roues de la Sequoia Lucky Forest et se faire attaper par l'un des chasseurs"
+      "condition": "Lancer le pire résultat sur l'une des roues de la Sequoia Lucky Forest et se faire attraper par l'un des chasseurs"
     },
     "residential_corridor_balcony": {
       "name": "La Société industrielle et son avenir",
