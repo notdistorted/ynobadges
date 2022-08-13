@@ -1,0 +1,9 @@
+{
+  "bp": 15,
+  "reqType": "tag",
+  "reqString": "apparition_creature",
+  "map": 100,
+  "art": "Olive Deer",
+  "animated": true,
+  "batch": 19
+}
